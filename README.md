@@ -17,8 +17,15 @@ This is the Website for INSAID- [My new link](https://www.insaid.co/)
 
  1. This is first point
  2. This is second point
- |Col1|  Col2 |
- |--| -- |
+ ```
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+ | Col1 |  Col2 |
+ | -- | -- |
  | Apple | 150 |
  | Bannana | 100 |
 This is [Mark Down Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

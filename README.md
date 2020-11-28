@@ -21,3 +21,4 @@ This is the Website for INSAID- [My new link](https://www.insaid.co/)
  |--| -- |
  | Apple | 150 |
  | Bannana | 100 |
+This is [Mark Down Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

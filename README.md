@@ -12,3 +12,12 @@ To check out my notebook, please click [here](https://github.com/Kiren-Kumar/hr-
 
 
 To check out my notebook, please click [here](https://github.com/Kiren-Kumar/hr-employee-attrition/blob/main/HR_Analytics.ipynb)
+
+This is the Website for INSAID- [My new link](https://www.insaid.co/)
+
+ 1. This is first point
+ 2. This is second point
+ |Col1|  Col2 |
+ |--| -- |
+ | Apple | 150 |
+ | Bannana | 100 |
